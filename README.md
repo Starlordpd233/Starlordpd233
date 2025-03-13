@@ -1,5 +1,10 @@
-## Hi there 👋
+## About Me
 
+I'm a student currently studying new technologies and improving my skills in software development
+
+## projects
+
+TBD..
 <!--
 **Starlordpd233/Starlordpd233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
